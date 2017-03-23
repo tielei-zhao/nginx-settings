@@ -5,10 +5,10 @@
 
 2.conf/nginx.conf 中修改参数
 1) ssi相关
-#在server中，加上以下参数
-ssi on;  
-ssi_silent_errors on;  
-ssi_types text/shtml;
+#在server中，加上以下参数	
+#ssi on;  	
+#ssi_silent_errors on;  	
+#ssi_types text/shtml;
 2) 项目及静态页面的地址
 #在server中，加入以下参数
 location ~ .*\.(html|htm|gif|jpg|jpeg|bmp|png|ico|txt|js|css)$ 
