@@ -1,0 +1,306 @@
+2017/03/20 10:06:18 [emerg] 6168#7156: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:06:47 [emerg] 5996#3476: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:07:22 [emerg] 4992#6800: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:08:25 [emerg] 5180#6832: invalid number of arguments in "root" directive in D:\nginx\nginx-1.10.3/conf/nginx.conf:49
+2017/03/20 10:09:05 [emerg] 5816#4144: invalid number of arguments in "root" directive in D:\nginx\nginx-1.10.3/conf/nginx.conf:49
+2017/03/20 10:09:25 [emerg] 3476#6700: invalid number of arguments in "root" directive in D:\nginx\nginx-1.10.3/conf/nginx.conf:50
+2017/03/20 10:13:01 [emerg] 6368#6440: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:17:59 [emerg] 6152#1712: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:18:56 [emerg] 3344#4684: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:19:18 [emerg] 5504#5172: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/03/20 10:20:05 [crit] 2056#6224: *1 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/header.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /header.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 10:20:06 [crit] 2056#6224: *2 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/header.html"
+2017/03/20 10:23:18 [crit] 2056#6224: *3 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/1学习/nginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /1%E5%AD%A6%E4%B9%A0/nginx/index.html HTTP/1.1", host: "localhost:66"
+2017/03/20 10:23:18 [crit] 2056#6224: *4 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:66", referrer: "http://localhost:66/1%E5%AD%A6%E4%B9%A0/nginx/index.html"
+2017/03/20 10:23:23 [crit] 2056#6224: *5 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/1学习/nginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /1%E5%AD%A6%E4%B9%A0/nginx/index.html HTTP/1.1", host: "localhost:66"
+2017/03/20 10:23:24 [crit] 2056#6224: *6 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:66", referrer: "http://localhost:66/1%E5%AD%A6%E4%B9%A0/nginx/index.html"
+2017/03/20 10:23:24 [crit] 2056#6224: *7 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/1学习/nginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /1%E5%AD%A6%E4%B9%A0/nginx/index.html HTTP/1.1", host: "localhost:66"
+2017/03/20 10:23:24 [crit] 2056#6224: *8 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:66", referrer: "http://localhost:66/1%E5%AD%A6%E4%B9%A0/nginx/index.html"
+2017/03/20 10:24:40 [crit] 2056#6224: *10 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 10:24:40 [crit] 2056#6224: *11 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/20 10:24:50 [crit] 2056#6224: *14 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 10:24:50 [crit] 2056#6224: *15 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/20 10:24:51 [crit] 2056#6224: *16 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 10:24:51 [crit] 2056#6224: *17 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/20 10:24:51 [crit] 2056#6224: *18 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 10:24:51 [crit] 2056#6224: *19 CreateFile() "C:\Users\Administrator\Desktop\桌面文件\1学习
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/20 10:28:57 [error] 5948#6212: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/20 11:32:14 [error] 7640#6968: *1 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:32:16 [error] 7640#6968: *1 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:32:16 [error] 7640#6968: *1 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:32:16 [error] 7640#6968: *1 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:32:17 [error] 7640#6968: *1 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:03 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:04 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:05 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:06 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:07 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:07 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:07 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:07 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:07 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:08 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:35:09 [error] 7640#6968: *2 CreateFile() "D:/test/index.html" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:36:53 [crit] 7040#4708: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:36:53 [crit] 7040#4708: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:36:54 [crit] 7040#4708: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:36:54 [crit] 7040#4708: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:36:55 [crit] 7040#4708: *5 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:37:00 [crit] 7040#4708: *6 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:37:00 [crit] 7040#4708: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:37:00 [crit] 7040#4708: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 11:37:01 [crit] 7040#4708: *9 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/20 13:18:42 [crit] 8060#8152: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 15:46:54 [crit] 5068#8584: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 15:46:54 [crit] 5068#8584: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 15:47:11 [crit] 5068#8584: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET / HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 15:47:11 [crit] 5068#8584: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/"
+2017/03/23 15:59:03 [crit] 5068#8584: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 15:59:04 [crit] 5068#8584: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:39:28 [crit] 5840#4552: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:39:28 [crit] 5840#4552: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:39:45 [crit] 5840#4552: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:39:45 [crit] 5840#4552: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:24 [crit] 8116#2500: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:24 [crit] 8116#2500: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:26 [crit] 8116#2500: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:26 [crit] 8116#2500: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:26 [crit] 8116#2500: *5 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:26 [crit] 8116#2500: *6 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:26 [crit] 8116#2500: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:26 [crit] 8116#2500: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:38 [crit] 8116#2500: *9 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:38 [crit] 8116#2500: *10 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:39 [crit] 8116#2500: *11 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:39 [crit] 8116#2500: *12 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:39 [crit] 8116#2500: *13 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:39 [crit] 8116#2500: *14 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:39 [crit] 8116#2500: *15 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:39 [crit] 8116#2500: *16 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:40 [crit] 8116#2500: *17 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:40 [crit] 8116#2500: *18 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:47 [crit] 8116#2500: *19 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:47 [crit] 8116#2500: *20 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:47 [crit] 8116#2500: *21 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:47 [crit] 8116#2500: *22 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:47 [crit] 8116#2500: *23 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:47 [crit] 8116#2500: *24 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:48 [crit] 8116#2500: *25 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:48 [crit] 8116#2500: *26 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:41:48 [crit] 8116#2500: *27 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:66"
+2017/03/23 16:41:48 [crit] 8116#2500: *28 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:66", referrer: "http://10.236.40.24:66/index.html"
+2017/03/23 16:43:18 [crit] 4012#7772: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:43:19 [crit] 4012#7772: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:43:20 [crit] 4012#7772: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:43:20 [crit] 4012#7772: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:43:20 [crit] 4012#7772: *5 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:43:20 [crit] 4012#7772: *6 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:43:21 [crit] 4012#7772: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:43:21 [crit] 4012#7772: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:43:21 [crit] 4012#7772: *9 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:43:21 [crit] 4012#7772: *10 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:45:59 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:45:59 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/favicon.ico" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.236.40.24:2255", referrer: "http://10.236.40.24:2255/index.html"
+2017/03/23 16:46:00 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:00 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:01 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:01 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:01 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:13 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:14 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:14 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:14 [error] 6708#8296: *1 CreateFile() "D:/1study/nginx/index.html" failed (3: The system cannot find the path specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:18 [crit] 4992#5380: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:19 [crit] 4992#5380: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:19 [crit] 4992#5380: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:19 [crit] 4992#5380: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:40 [crit] 5532#5976: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:41 [crit] 5532#5976: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:41 [crit] 5532#5976: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:41 [crit] 5532#5976: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:41 [crit] 5532#5976: *5 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:42 [crit] 5532#5976: *6 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:42 [crit] 5532#5976: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:42 [crit] 5532#5976: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:42 [crit] 5532#5976: *9 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:54 [crit] 8604#7876: *1 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:55 [crit] 8604#7876: *2 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *3 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *4 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *5 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *6 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *7 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *8 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *9 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *10 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *11 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *12 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *13 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:46:56 [crit] 8604#7876: *14 CreateFile() "C:\Users\Administrator\Desktop\desktop\1study
+ginx/index.html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", host: "10.236.40.24:2255"
+2017/03/23 16:48:45 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:45 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:46 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:46 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:47 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:47 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/header.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.htm", host: "10.236.40.24:2255"
+2017/03/23 16:48:48 [error] 9524#9560: *1 CreateFile() "C:/Users/Administrator/Desktop/desktop/1study/nginx/footer.htm" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.htm", host: "10.236.40.24:2255"
+2017/03/23 16:49:50 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:50 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:50 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:50 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:51 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:52 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:53 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:49:53 [error] 9524#9560: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:10 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:10 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:11 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:11 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:11 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:11 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/header.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/header.shtml", host: "10.236.40.24:2255"
+2017/03/23 16:50:12 [error] 272#4224: *1 CreateFile() "D:\nginx\nginx-1.10.3/html/footer.shtml" failed (2: The system cannot find the file specified), client: 10.236.40.24, server: localhost, request: "GET /index.html HTTP/1.1", subrequest: "/footer.shtml", host: "10.236.40.24:2255"
